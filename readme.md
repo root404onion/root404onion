@@ -5,10 +5,11 @@
 </H1>
 
 <p align="center">
-  <a href="mailto:hi@astralelite.org">
-    <span style="font-size:1.5em;"><b>hi@astralelite.org</b></span>
+  <a href="mailto:hi@astralelite.org" style="text-decoration:none;">
+    <span style="font-size:2em; font-weight:bold;">hi@astralelite.org</span>
   </a>
 </p>
+
 
 **projects**
 
