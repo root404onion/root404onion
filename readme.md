@@ -12,6 +12,11 @@
   </a><br>
 </p>
 
+**Follow Me**
+- [TryHackMe](https://tryhackme.com/p/tryhackmehackme)
+- [LeetCode](https://leetcode.com/u/leetcodelogic/)
+- [Kaggle](https://www.kaggle.com/googlelogic)
+- [HuggingFace](https://huggingface.co/internet404)
 
 **projects**
 
