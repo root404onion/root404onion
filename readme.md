@@ -16,5 +16,5 @@
 - [flow.astralelite.org](https://flow.astralelite.org)
 - [xue.astralelite.org](https://xue.astralelite.org)
 - [hashpros.astralelite.org](https://hashpros.astralelite.org)
-- [Telegram youtube downloader Bot ](https://git.astralelite.org/AE/ytbot)
-- [Encrypted onion Forum Invite Only](https://git.astralelite.org/AE/Encrypted-onion-forum)
+- [Telegram youtube downloader Bot ](https://github.com/AE-OSS/yt-downloader-tg-bot)
+- [Encrypted onion Forum Invite Only](https://github.com/AE-OSS/Encrypted-onion-forum)
