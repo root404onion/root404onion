@@ -29,3 +29,6 @@
 - [hashpros.astralelite.org](https://hashpros.astralelite.org)
 - [Telegram youtube downloader Bot ](https://github.com/AE-OSS/yt-downloader-tg-bot)
 - [Encrypted onion Forum Invite Only](https://github.com/AE-OSS/Encrypted-onion-forum)
+
+**Activity**
+- Self-Hosted Gitea [Read - Blog](https://blog.astralelite.org/post/Gitea-selfhosted)
