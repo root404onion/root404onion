@@ -31,4 +31,4 @@
 - [Encrypted onion Forum Invite Only](https://github.com/AE-OSS/Encrypted-onion-forum)
 
 **Activity**
-- Self-Hosted Gitea [Read - Blog](https://blog.astralelite.org/post/Gitea-selfhosted) | [Git.astralElite.org](https://git.astralelite.org/)
+- Self-Hosted Gitea [Read - Blog](https://blog.astralelite.org/post/Gitea-selfhosted) | [Git.AstralElite.org](https://git.astralelite.org/)
