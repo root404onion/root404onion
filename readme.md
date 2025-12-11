@@ -2,6 +2,12 @@
   <a href="https://astralelite.org" style="text-decoration:none;">
     <b><span style="font-size:2em;">Astralelite.org</span></b>
   </a>
+
+ |
+
+  <a href="https://blog.astralelite.org" style="text-decoration:none;">
+    <b><span style="font-size:2em;">Blog.AstralElite.org</span></b>
+  </a>
 </H1>
 
 
