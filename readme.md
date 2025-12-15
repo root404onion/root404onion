@@ -22,7 +22,12 @@
   </a><br>
 </p>
 
-## My Little Portfolio 
+<div align="center">
+
+## My Little Portfolio  
 ### [Who am I?](https://whoami0.web.app/)
+
+</div>
+
 
 
