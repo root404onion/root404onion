@@ -8,7 +8,7 @@
 
   <span style="font-size: 1.8em; color: #D4AF37; margin: 0 25px; vertical-align: middle;">✦</span>
 
-  <a href="https://blog.astralelite.org" style="text-decoration:none; color: #333;">
+  <a href="https://blog.astralelite.org" target="_blank" style="text-decoration:none; color: #333;">
     <span style="font-size: 1.8em; font-weight: 300; letter-spacing: 2px; text-transform: uppercase;">
       Blog
     </span>
