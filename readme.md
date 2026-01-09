@@ -24,8 +24,7 @@
 
 <div align="center">
 
-## My Little Portfolio  
-### [Who am I?](https://whoami0.web.app/)
+
 
 </div>
 
