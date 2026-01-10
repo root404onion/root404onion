@@ -14,6 +14,6 @@
 
 <br><br>
 
-📧 **[ayush@astralelite.org](mailto:ayush@astralelite.org)**
+📧 **[me@xeayu.com](mailto:me@xeayu,com)**
 
 </div>
